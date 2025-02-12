@@ -5,7 +5,7 @@ Company : CODTECH IT SOLUTIONS
 
 Id : CDO8DVI 
 
-Domain : full stack web development 
+Domain : FULL STACK WEB DEVELOPMENT 
 
 Duration :30-12-2024 TO 30-1-2025
 
